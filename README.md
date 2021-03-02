@@ -1,6 +1,6 @@
 # Handwashing app
 
-Simple demo of a Svelte based handwashing app.
+Simple demo of a Svelte based handwashing app, published via Github Pages.
 
 ## Get started
 
